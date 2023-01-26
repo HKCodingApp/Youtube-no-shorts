@@ -1,0 +1,10 @@
+
+ytd-grid-video-render:has(a[href*="/shorts/"]),ytd-mini-guide-entry-renderer:has(a[title*="Shorts"]), ytd-guide-entry-renderer:has(a[title*="Shorts"]){
+  display: none !important;
+}
+
+.ytd-rich-section-renderer:has(a[href*="/shorts/"]) {
+  display: none !important;
+}
+
+
